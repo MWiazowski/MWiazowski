@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @MWiazowski
-- 👀 I’m interested in machine Learning and it's application in healthcare.
-- 🌱 I’m currently learning machine learning techiques.
+- 👀 I’m interested in machine Learning, data analysis, business intelligence.
+- 🌱 I’m currently learning machine learning techiques (scikit-learn, keras) and Linux
