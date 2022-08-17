@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @MWiazowski
+- 👀 I’m interested in machine Learning and it's application in healthcare.
+- 🌱 I’m currently learning machine learning techiques.
